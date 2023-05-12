@@ -1,6 +1,6 @@
 ### What is this?
 
-This is simply a placeholder for any project that are currently being worked on. If you're curious as to what it looks like, then here's the link []()
+This is simply a placeholder for any project that are currently being worked on. If you're curious as to what it looks like, then here's the link [https://under-construction-site.vercel.app/](https://under-construction-site.vercel.app/)
 
 ### Can I Use This?
 
