@@ -32,6 +32,6 @@
   display: 'flex';
 }
 
-.container a{
+.container button{
   margin-right: 1rem;
 }

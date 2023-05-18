@@ -3,7 +3,7 @@
 import { LazyMotion, m, useTime, useTransform } from 'framer-motion'
 import styles from './gears.module.css'
 
-const loadFeatures = () => import('../../lib/animation/domAnimation').then((mod) => mod.default)
+const loadFeatures = () => import('../../../lib/animation/domAnimation').then((mod) => mod.default)
 export default function Gears({ size, x, y }: {
     size?: number,
     x?: number,
